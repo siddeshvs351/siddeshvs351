@@ -3,17 +3,28 @@
 ### 💻 Aspiring Software Engineer | Java • MERN • AI/ML
 Building impactful, real-world applications and continuously learning.
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Java+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Java+Developer;MERN+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+# 💫 About Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white)](https://instagram.com/_.siddesh01)
+🎓 Computer Science Student
+
+💻 Passionate about Software Development, AI/ML, and Full-Stack Development.
+
+🌱 Currently learning advanced Java, MERN Stack, and Computer Vision.
+
+🚀 Building real-world projects to improve problem-solving and development skills.
+
+---
+
+## 🌐 Socials
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/_.siddesh01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddesh%20V%20S)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddeshvs351@gmail.com)
 
 ---
@@ -33,11 +44,11 @@ Building impactful, real-world applications and continuously learning.
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat&logo=streamlit&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat&logo=opencv&logoColor=5C3EE8)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=Matplotlib&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=flat&logo=matplotlib&logoColor=black)
 
 ---
 
@@ -45,9 +56,9 @@ Building impactful, real-world applications and continuously learning.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddeshvs351&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=siddeshvs351&show_icons=true&theme=merko&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddeshvs351&layout=compact&theme=merko"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddeshvs351&layout=compact&theme=merko"/>
 
 </p>
 
@@ -62,9 +73,7 @@ Building impactful, real-world applications and continuously learning.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=siddeshvs351&theme=radical&margin-w=10&margin-h=10"/>
-
 </p>
 
 ---
@@ -72,9 +81,7 @@ Building impactful, real-world applications and continuously learning.
 ## 👀 Profile Views
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=siddeshvs351&label=Profile%20Views&color=0e75b6&style=flat"/>
-
 </p>
 
 ---
