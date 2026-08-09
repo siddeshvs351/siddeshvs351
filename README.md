@@ -32,12 +32,9 @@ Building impactful, real-world applications and continuously learning.
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=siddeshvs351&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddeshvs351&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
