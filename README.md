@@ -30,12 +30,7 @@ Building impactful, real-world applications and continuously learning.
 ![](https://streak-stats.demolab.com/?user=siddeshvs351&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=siddeshvs351&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
-[![](https://komarev.com/ghpvc/?username=siddeshvs351&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddeshvs351&theme=radical&no-frame=false&no-bg=true&margin-w=4)
