@@ -1,4 +1,5 @@
 # Hi 👋, I'm Siddesh V S
+i love RAG 
 
 ### 💻 Aspiring Software Engineer | Java • MERN • AI/ML
 Building impactful, real-world applications and continuously learning.
